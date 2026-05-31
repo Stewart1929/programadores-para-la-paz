@@ -1,0 +1,5 @@
+¿Qué hace esta ruta?
+La ruta POST '/reporte' está diseñada para escuchar peticiones de envío de datos. Recibe un objeto de información estructurada en formato JSON, extrae el texto que viene dentro de la propiedad 'mensaje' y responde automáticamente al cliente confirmando que los datos fueron recibidos con éxito junto al contenido enviado.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Esta ruta es ideal para que los miembros de una comunidad envíen información en tiempo real desde una aplicación móvil o formulario web. Por ejemplo, se podría usar para reportar el inventario disponible en un comedor popular, registrar alertas ciudadanas sobre fallas en servicios públicos, enviar notificaciones de control de sanidad en la manipulación de alimentos, o coordinar de manera organizada la entrega y logística de insumos o ayudas humanitarias directamente hacia un servidor central.

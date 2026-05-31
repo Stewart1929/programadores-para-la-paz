@@ -1,0 +1,7 @@
+Las APIs actúan como puentes de comunicación estandarizados que facilitan el intercambio ordenado de datos críticos dentro de una comunidad. 
+Al estructurar la información mediante métodos claros como GET y POST, permiten centralizar reportes de incidentes, alertas sanitarias o necesidades 
+logísticas en un solo servidor de manera automatizada. Esto elimina la necesidad de recopilar datos dispersos mediante mensajería informal, 
+permitiendo que cualquier aplicación local o sistema de mensajería se conecte al servidor para actualizar o consultar información en tiempo real. 
+Así, los comités locales pueden procesar grandes volúmenes de datos de manera eficiente, optimizar la distribución de recursos y coordinar 
+respuestas inmediatas basadas en información verídica y estructurada. En definitiva, las APIs empoderan la gestión comunitaria al proveer 
+una infraestructura tecnológica ordenada, transparente y accesible para el beneficio colectivo.
