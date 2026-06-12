@@ -1,0 +1,9 @@
+Al enviar un nuevo reporte mediante POST y posteriormente consultar la ruta GET en http://localhost:3000/reportes, el servidor devuelve un arreglo (array) en formato JSON que contiene el historial de los reportes guardados en la memoria. Como enviamos un reporte de infraestructura, la respuesta que se muestra es:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
