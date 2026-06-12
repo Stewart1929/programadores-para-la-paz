@@ -1,0 +1,5 @@
+1. No exponer datos personales ni información sensible de los miembros de la comunidad de forma pública.
+2. Proteger las credenciales de los administradores usando contraseñas robustas y autenticación en dos pasos.
+3. Usar conexiones seguras (protocolo HTTPS) para encriptar los datos que viajan entre el usuario y el servidor.
+4. Registrar los accesos y mantener un historial de cambios (logs) para auditar cualquier actividad sospechosa.
+5. Limitar el acceso a la información mediante roles de usuario, para que cada persona solo vea lo estrictamente necesario para su función.

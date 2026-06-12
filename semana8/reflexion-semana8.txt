@@ -1,0 +1,9 @@
+La seguridad digital es un pilar fundamental en las plataformas comunitarias porque estas 
+herramientas suelen manejar datos personales, reportes sensibles e información clave de los 
+ciudadanos. Si una plataforma no cuenta con medidas de protección adecuadas, queda expuesta a 
+ataques malintencionados, robo de identidad o manipulación de la información, lo cual puede 
+destruir rápidamente la confianza de la comunidad en los procesos participativos. Proteger 
+estos espacios garantiza que la participación ciudadana sea segura, confiable y libre de 
+sabotajes. Además, al implementar buenas prácticas tecnológicas, se salvaguarda la integridad 
+del esfuerzo colectivo, asegurando que las herramientas sigan siendo un medio de empoderamiento 
+seguro y no una vulnerabilidad que ponga en riesgo a sus integrantes.
