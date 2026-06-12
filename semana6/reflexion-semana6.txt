@@ -1,0 +1,9 @@
+Es fundamental que las plataformas tecnológicas reciban reportes ciudadanos de forma 
+estructurada porque garantiza que la información sea clara, uniforme y fácil de procesar. 
+Al utilizar formatos estándar como JSON, los sistemas pueden clasificar, filtrar y analizar 
+automáticamente las incidencias (como daños en vías o fallas eléctricas) sin requerir 
+intervención manual constante. Esto agiliza los tiempos de respuesta de las entidades 
+correspondientes y reduce el margen de error humano al interpretar los datos desordenados. 
+Además, la estructuración permite generar estadísticas precisas sobre las problemáticas 
+más comunes en la comunidad, facilitando la toma de decisiones basada en evidencia para 
+mejorar la calidad de vida y fortalecer la participación ciudadana participativa.

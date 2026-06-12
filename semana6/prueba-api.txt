@@ -1,0 +1,7 @@
+Al enviar una petición POST a la ruta http://localhost:3000/registro con los datos de Maria, el servidor procesa el JSON recibido en el cuerpo (req.body) y devuelve la siguiente respuesta estructurada confirmando la recepción:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
