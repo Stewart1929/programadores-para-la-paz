@@ -1,0 +1,9 @@
+Es de vital importancia que las plataformas tecnológicas utilizadas por las comunidades funcionen 
+de manera estable y segura en un servidor para garantizar el acceso continuo a la información y 
+a los servicios participativos. La estabilidad asegura que la herramienta esté siempre disponible 
+cuando los ciudadanos necesiten reportar incidencias o coordinar acciones urgentes, evitando 
+caídas del sistema que puedan paralizar la gestión local. Por otro lado, la seguridad protege la 
+privacidad de los usuarios, resguardando datos sensibles contra accesos no autorizados o posibles 
+ataques cibernéticos. Un servidor confiable y bien administrado fomenta la transparencia, 
+fortalece la confianza de la comunidad en los procesos digitales y asegura que la tecnología sea 
+un verdadero motor de desarrollo social continuo y no una fuente constante de vulnerabilidades.
