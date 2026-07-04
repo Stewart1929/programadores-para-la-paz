@@ -1,0 +1,8 @@
+Las metodologías ágiles, la automatización y los canales de mensajería instantánea como Telegram son herramientas cruciales para potenciar la gestión comunitaria. 
+El uso de un backlog permite estructurar y priorizar de forma transparente las necesidades colectivas, asegurando que los esfuerzos se concentren en lo urgente. 
+Por su parte, los ciclos de iteración ayudan a obtener resultados visibles a corto plazo, manteniendo motivados a los participantes del proceso. 
+La automatización mediante n8n optimiza el tiempo de los coordinadores al eliminar tareas repetitivas, como la recopilación manual de alertas. 
+Esto permite desviar la atención y la energía del equipo hacia la resolución directa de los problemas en lugar de la administración burocrática. 
+Asimismo, Telegram actúa como un puente de comunicación masivo, ágil y de fácil acceso que mantiene informados a los ciudadanos en tiempo real. 
+Al integrar estas tres tecnologías, se construye un flujo de veeduría y participación sumamente eficiente, transparente y dinámico. 
+En consecuencia, las comunidades adquieren una mayor capacidad de autoorganización, mejorando la fiscalización social y el bienestar colectivo.

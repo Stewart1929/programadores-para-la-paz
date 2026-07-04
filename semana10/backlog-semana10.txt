@@ -1,0 +1,6 @@
+HISTORIAS DE USUARIO (Ordenadas de mayor a menor prioridad)
+
+1. [ALTA] Como veedor ciudadano, quiero registrar una incidencia sobre el estado o manipulación de los alimentos recibidos para dejar evidencia del cumplimiento de las normas de sanidad.
+2. [MEDIA-ALTA] Como coordinador del programa, quiero recibir una alerta automática en Telegram cuando se registre una incidencia crítica para revisar el caso de manera inmediata.
+3. [MEDIA] Como miembro del comité comunitario, quiero consultar la lista histórica de reportes almacenados para hacer seguimiento a las soluciones implementadas.
+4. [BAJA] Como ciudadano beneficiario, quiero ver un resumen público y transparente sobre el estado general del servicio del comedor para confiar en el proceso.

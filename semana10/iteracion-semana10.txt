@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+Se realizarían primero las historias número 1 (Registrar la incidencia de sanidad/alimentos) y número 2 (Alerta automática en Telegram).
+
+¿Por qué son las más importantes?
+Porque constituyen el núcleo operativo o el Producto Mínimo Viable (MVP) de la solución. Sin la capacidad técnica de capturar y guardar el reporte en el sistema (Historia 1), no existirían datos que procesar. Adicionalmente, la notificación inmediata (Historia 2) asegura que el canal de comunicación funcione en tiempo real para atender emergencias de abastecimiento o manipulación antes de que afecten a la comunidad.
+
+Definición de Terminado (Definition of Done - DoD):
+Una tarea se considera "terminada" cuando cumple estrictamente con los siguientes 3 criterios:
+1. Funciona: El código de la ruta o flujo se ejecuta sin errores de sintaxis y procesa los datos JSON esperados.
+2. Fue probada: Se realizaron pruebas de extremo a extremo de forma local (usando herramientas como Thunder Client o Postman) verificando las respuestas correctas.
+3. Quedó registrada en Git: Todo el código y los archivos de soporte fueron confirmados (commit) y publicados en el repositorio remoto de GitHub.

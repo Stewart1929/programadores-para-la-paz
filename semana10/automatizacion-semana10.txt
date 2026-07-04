@@ -1,0 +1,11 @@
+DISEÑO DE FLUJO DE AUTOMATIZACIÓN (n8n + Telegram)
+
+1. ¿Qué evento activa el flujo?
+El flujo se activa mediante un nodo de tipo "Webhook" en n8n, el cual escucha en tiempo real cuando la API de nuestra aplicación web registra con éxito una nueva incidencia o reporte comunitario enviado por un ciudadano.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviaría un mensaje estandarizado al canal de coordinación que dice:
+"⚠️ Alerta de Veeduría: Se ha registrado una nueva incidencia en el sistema de control de alimentos. Por favor, ingrese al panel administrativo para revisar los detalles del caso."
+
+3. ¿Qué información no debería enviarse por seguridad?
+Por estrictas razones de seguridad, privacidad y protección de datos, bajo ninguna circunstancia se deben enviar: nombres completos de los ciudadanos, números de documento de identidad (cédulas), direcciones de residencia exactas, números telefónicos personales, contraseñas, ni datos de geolocalización sensible del reportante.
