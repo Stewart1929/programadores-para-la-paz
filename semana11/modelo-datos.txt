@@ -1,0 +1,23 @@
+Entidad: Causa_Nutricional
+
+Campos principales:
+- id
+- titulo (ej. Exigencia de cumplimiento de Resolución 2674 en comedores)
+- descripcion
+- fecha_registro
+- estado_auditoria
+
+Propósito:
+Guardar las causas comunitarias, alertas de inocuidad o propuestas de mejora de minutas institucionales que serán visibles en la plataforma para el conocimiento ciudadano.
+
+
+Entidad: Apoyo_Ciudadano
+
+Campos principales:
+- id
+- causa_id
+- usuario_anonimo_id
+- fecha_apoyo
+
+Propósito:
+Registrar y cuantificar los apoyos que recibe cada causa comunitaria para hacer seguimiento a la participación y dar peso a las peticiones ante las entidades, manteniendo protegida la identidad exacta del firmante.

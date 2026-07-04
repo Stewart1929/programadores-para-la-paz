@@ -1,0 +1,7 @@
+La interfaz de la plataforma comunitaria contaría con un formulario principal, accesible solo para usuarios registrados, diseñado para crear una nueva causa (por ejemplo, solicitar la calibración de equipos de medición en un punto de servicio), solicitando un título claro, descripción detallada del problema y fecha.
+
+En la pantalla de inicio, habría una vista o tablero de causas disponibles ordenadas por prioridad, para que todos los ciudadanos puedan leer las iniciativas de manera pública.
+
+Cada causa mostrada incluiría un botón visible de "Apoyar causa" y un contador numérico en tiempo real que muestre cuántas personas de la comunidad la han respaldado.
+
+El diseño de la interfaz debe ser intuitivo, rápido y debe garantizar en todo momento que los datos privados de los ciudadanos que apoyan las causas se mantengan invisibles para el resto de los usuarios.

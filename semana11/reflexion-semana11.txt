@@ -1,0 +1,9 @@
+Una plataforma tecnológica orientada a la participación ciudadana requiere obligatoriamente 
+una base de datos para almacenar de forma persistente y estructurada todo el volumen de 
+propuestas, incidencias y apoyos generados por la comunidad. La autenticación de usuarios 
+es igualmente crítica, ya que permite validar la identidad de los participantes, evitando el 
+fraude, la manipulación de los contadores de apoyo y garantizando que cada registro sea 
+legítimo. Finalmente, la protección de la información es el pilar que sostiene la confianza 
+pública; si los ciudadanos sienten que sus datos personales, contactos o posturas están 
+expuestos a riesgos de privacidad, simplemente dejarán de participar. Un sistema seguro y 
+bien estructurado fomenta una veeduría activa, transparente y verdaderamente democrática.
