@@ -1,0 +1,7 @@
+FLUJO DEL SISTEMA: "PETICIÓN EN 3 CLICS"
+
+1. Creación de la iniciativa: Un ciudadano registrado accede a la plataforma y publica una causa colectiva de interés público (por ejemplo, solicitar la auditoría de calidad y cumplimiento de minutas en un comedor comunitario o del programa de alimentación escolar).
+2. Registro y publicación: El servidor procesa la solicitud, guarda los datos en la base de datos y publica la causa de forma automática en el tablero de iniciativas activas de la plataforma.
+3. Captura de apoyos ciudadanos: Otros miembros de la comunidad ingresan al sistema, leen los detalles del reporte o propuesta y registran su apoyo de manera rápida mediante un botón de firma digital no sensible.
+4. Conteo automático en tiempo real: La aplicación web recibe los apoyos, actualiza inmediatamente el contador de respaldos asociado a la causa y evalúa si se ha alcanzado la meta requerida de firmas establecida.
+5. Generación del documento formal: Una vez completado el umbral de apoyos colectivos, el servidor compila los datos generales de la causa, el conteo total de respaldos y genera de manera automatizada un documento PDF formalizado (petición) listo para ser descargado, compartido o presentado ante las autoridades competentes.

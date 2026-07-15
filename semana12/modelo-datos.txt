@@ -1,0 +1,22 @@
+DISEÑO DE MODELO DE DATOS - "PETICIÓN EN 3 CLICS"
+
+Entidad: Causa
+Campos principales:
+- id: Identificador único numérico (clave primaria).
+- titulo: Nombre descriptivo de la iniciativa o reporte de veeduría.
+- descripcion: Detalle de la problemática y la petición formal planteada.
+- fecha: Día y hora exacta del registro.
+
+Propósito:
+Esta entidad sirve para almacenar de forma ordenada las causas, propuestas de mejora o reportes de control social que los miembros de la comunidad deciden iniciar en la plataforma para recolectar apoyo colectivo.
+
+
+Entidad: Apoyo
+Campos principales:
+- id: Identificador único de la firma (clave primaria).
+- causa_id: Referencia numérica que vincula este apoyo con una causa específica (clave foránea).
+- nombre: Identificador o alias ficticio del ciudadano para validar el respaldo sin vulnerar su privacidad.
+- fecha: Día y hora en que se registró el apoyo.
+
+Propósito:
+Esta entidad sirve para registrar, validar y contar cada uno de los respaldos individuales que recibe una causa específica, garantizando que el conteo final de apoyos sea transparente, verídico y auditable.

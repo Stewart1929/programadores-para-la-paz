@@ -1,0 +1,11 @@
+DISEÑO DE AUTOMATIZACIÓN (Integración con n8n y Telegram)
+
+1. Evento que activa la automatización:
+El flujo se activa cuando un ciudadano registra exitosamente una nueva causa en la base de datos de la plataforma (activación por webhook).
+
+2. Mensaje que se envía:
+Se enviará una alerta automática al canal de coordinación comunitaria en Telegram:
+"📢 Alerta de Participación: Se ha creado la causa 'Auditoría de Calidad de Insumos Comunitarios'. La recolección de firmas ha comenzado. ¡Apoya e infórmate en la plataforma!"
+
+3. Información que no debe enviarse por seguridad:
+Para cumplir con los principios de privacidad, bajo ningún motivo se deben enviar: contraseñas, tokens de conexión, direcciones de correo, números de teléfono personales, documentos de identidad ni comentarios que expongan la seguridad o identidad física de los ciudadanos participantes.
